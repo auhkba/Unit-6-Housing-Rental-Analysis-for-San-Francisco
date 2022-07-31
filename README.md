@@ -7,33 +7,31 @@ The project is to give investors an overview of understanding San Francisco Neig
 ### Step 1
 
 Visualize long term San Francisco housing market supply from 2010 to 2016.
-Click the [Housing Units By Year](Images/housing_units_by_year_chart.html) , move cursor to see detailed numbers.
+Move cursor to individual bar, `orange` will highlight housing units.
 
-[![housing_units_by_year](Images/housing_units_by_year.png)](Images/housing_units_by_year_chart.html)
-
+![housing_units_by_year](Images/housing_units_by_year.png)
 ---
 
 ### Step 2
 
-Visualize San Francisco historical [Rental and Sale Price - San Francisco ](Images/prices_square_foot_by_year_chart.html), move cursor to see average average Sale Price Per Square Foot and Gross Income.
+Visualize `San Francisco` historical sales and rental figures. Move cursor to see average average Sale Price Per Square Foot and Gross Income.
 
-[![San Francisco](Images/prices_square_foot_by_year_chart.png)](Images/prices_square_foot_by_year_chart.html)
+![San Francisco](Images/prices_square_foot_by_year_chart.png)
 
 ---
 ### Step 3
-Visualize San Francisco historical [Rental and Sale Price - By Neighborhoods ](Images/prices_by_year_by_neighborhood_chart.html), from the drop-down bar on right hand select `neighborhood`  to see detailed individual neighborhood performance.
+Visualize individual `Neighborhood` historical sales and rental figures. From the drop-down bar on right hand side, select `neighborhood`  to see detailed individual neighborhood performance.
 
-[![Neibhborhood](Images/prices_by_year_by_neighborhood_chart.png)](Images/prices_by_year_by_neighborhood_chart.html)
+![Neibhborhood](Images/prices_by_year_by_neighborhood_chart.png)
 
 ---
 ### Final Step
 
-From our one-click  [San Francisco Neighborhood Map](Images/all_neighborhoods_df_chart.html) below
-, you will quickly visualize areas with **darker blue and smaller circles**, meaning **higher rental income, lower sale pric**, this will help you to search the desired neighborhoods to implement buy-and-rent strategy. 
+From our one-click `San Francisco Neighborhood Map` below, you will quickly visualize areas with **darker blue and smaller circles**, meaning **higher rental income, lower sale pric**, this will help you to search the desired neighborhoods to implement buy-and-rent strategy. 
 
 At the same time, you are able to avoid areas with **big circles and light blue**, meaning **higher sale price, lower rental income**,which are indicating lower investment return.
 
-[![Neibhborhood](Images/all_neighborhoods_df_chart.png)](Images/all_neighborhoods_df_chart.html)
+![Neibhborhood](Images/all_neighborhoods_df_chart.png)
 
 ---
 
