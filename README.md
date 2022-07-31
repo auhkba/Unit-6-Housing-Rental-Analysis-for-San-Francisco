@@ -1,6 +1,6 @@
 # Unit-6-Housing-Rental-Analysis-for-San-Francisco
 
-The project is to give investors an overview of understanding San Francisco Neighborhoods housing market trends. By navigating interactive charts will help investors to find areas in the San Francisco market that are viable investment opportunities.
+The project is to give investors an overview of understanding San Francisco Neighborhoods housing market trends. By navigating interactive charts will help investors to find areas in the San Francisco market that demostrate viable investment opportunities.
 
 ---
 
